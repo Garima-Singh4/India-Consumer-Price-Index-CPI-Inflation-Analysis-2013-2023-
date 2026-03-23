@@ -98,17 +98,9 @@ This project presents an in-depth analysis of **India’s Consumer Price Index (
 ## 🔹 **Visualizations**
 
 ### 🔹 **CPI Inflation Trend**
-![Inflation Trend](https://via.placeholder.com/800x400.png?text=CPI+Trend+Chart)
-
----
-
 ### 🔹 **CPI Basket Composition**
-![Pie Chart](https://via.placeholder.com/600x400.png?text=CPI+Composition)
-
----
-
 ### 🔹 **Sector-wise Comparison**
-![Bar Chart](https://via.placeholder.com/800x400.png?text=Sector+Comparison)
+
 
 ---
 
@@ -186,4 +178,4 @@ Be ready to explain:
 
 ## 🔗 **Connect With Me**
 
-- 🔹 **LinkedIn:** [https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/your-link-here)
+- 🔹 **LinkedIn:** [https://www.linkedin.com/in/https://www.linkedin.com/in/garimasingh7g/](https://www.linkedin.com/in/your-link-here)
