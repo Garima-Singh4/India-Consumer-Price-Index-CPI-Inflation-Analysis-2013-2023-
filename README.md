@@ -178,4 +178,4 @@ Be ready to explain:
 
 ## 🔗 **Connect With Me**
 
-- 🔹 **LinkedIn:** [https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/garimasingh7g/)
+- 🔹 **LinkedIn:** [https://www.linkedin.com/in/garimasingh7g/](https://www.linkedin.com/in/garimasingh7g/)
